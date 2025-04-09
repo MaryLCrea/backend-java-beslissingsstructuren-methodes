@@ -23,7 +23,7 @@ public class main {
 
     public static void postiveOrZeroOrNegativ(int number) {
         if (number > 0) {
-            System.out.println(number + " this number is positive.");
+            System.out.println(number + " this number is positive :).");
         } else if (number == 0) {
             System.out.println("This number is zero!");
         } else {
