@@ -32,7 +32,7 @@ public class main {
     }
 
     public static void bartender(String name) {
-        System.out.println("Welkom in de bar, ik weet dat je graag bacardi drinkt " + name + "!");
+        System.out.println("Welkom in de bar " + name + ", ik weet dat je graag bacardi-cola drinkt!");
     }
 
     public static int sum(int input1, int input2) {
