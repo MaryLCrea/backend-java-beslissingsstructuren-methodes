@@ -14,9 +14,9 @@ public class main {
 
     public static void positiveOrNegative(int number) {
         if (number >= 0) {
-            System.out.println(number + " this number is positive.");
+            System.out.println(number + " this number is positive!");
         } else {
-            System.out.println(number + " this number is negative.");
+            System.out.println(number + " this number is negative!");
         }
     }
 
