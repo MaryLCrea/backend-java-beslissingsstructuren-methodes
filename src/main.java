@@ -1,6 +1,5 @@
 public class main {
     public static void main(String[] args) {
-        // Voorbeeldaanroepen van de methodes:
         hello();
         positiveOrNegative(5);
         postiveOrZeroOrNegativ(0);
