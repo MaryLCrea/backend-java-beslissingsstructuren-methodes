@@ -22,7 +22,7 @@ public class main {
 
     public static void postiveOrZeroOrNegativ(int number) {
         if (number > 0) {
-            System.out.println(number + " this number is positive.");
+            System.out.println(number + " this number is positive :).");
         } else if (number == 0) {
             System.out.println("This number is zero!");
         } else {
@@ -31,7 +31,7 @@ public class main {
     }
 
     public static void bartender(String name) {
-        System.out.println("Welkom in de bar " + name + ", ik weet dat je graag bacardi-cola drinkt!");
+        System.out.println("Welkom in de bar " + name + ":) , ik weet dat je graag bacardi-cola drinkt!");
     }
 
     public static int sum(int input1, int input2) {
